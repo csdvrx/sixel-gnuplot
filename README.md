@@ -16,5 +16,5 @@ This is what you can get, for example a visualization of chrony statistics.log w
 
 Of course, you can mix regular images, ANSI colors and plot of function
 
-![example2](./example.jpg2?raw=true)
+![example2](./example2.jpg?raw=true)
 
