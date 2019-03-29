@@ -1,0 +1,11 @@
+--- gnuplot-5.2.6+dfsg1-orig/debian/rules	2017-11-09 04:39:18.000000000 +0000
++++ gnuplot-5.2.6+dfsg1/debian/rules	2019-03-22 09:40:21.077108561 +0000
+@@ -31,7 +31,7 @@
+ 	--with-gihdir=\$${prefix}/share/gnuplot \
+ 	--without-lasergnu \
+ 	--with-png \
+-	--with-gd \
++	--with-gd --with-bitmap-terminals \
+ 	--without-lisp-files \
+ 	--without-linux-vga \
+ 	--with-readline=bsd
