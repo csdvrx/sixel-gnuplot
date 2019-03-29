@@ -18,6 +18,7 @@ This is what you can get, for example a visualization of chrony statistics.log w
 
 ![example](./example.jpg?raw=true)
 
-It works inside GNU screen when using the proper patches:
+It works inside GNU screen or tmux when using the proper patches:
 
 ![inside-screen](./inside-screen.jpg?raw=true)
+![inside-tmux](./inside-tmux.jpg?raw=true)
