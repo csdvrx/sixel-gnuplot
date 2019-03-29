@@ -10,11 +10,14 @@ Then set GNUTERM, like:
 
   export GNUTERM="sixelgd size 1280,720 truecolor font arial 10"
 
+You can mix regular images, ANSI colors and plot of function
+
+![example2](./example2.jpg?raw=true)
+
 This is what you can get, for example a visualization of chrony statistics.log wit the sixel-plot.sh script shown above:
 
 ![example](./example.jpg?raw=true)
 
-Of course, you can mix regular images, ANSI colors and plot of function
+It works inside GNU screen when using the proper patches:
 
-![example2](./example2.jpg?raw=true)
-
+![inside-screen](./inside-screen.jpg?raw=true)
